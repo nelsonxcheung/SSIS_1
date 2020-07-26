@@ -1,0 +1,13 @@
+﻿<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="sarah-vaio.sa"
+  DTS:DTSID="{75A50CDC-087C-43D4-9729-6EEE8E59B9BD}"
+  DTS:CreationName="SMOServer">
+  <DTS:ObjectData>
+    <SMOServerConnectionManager
+      ConnectionString="SqlServerName=sarah-vaio;UseWindowsAuthentication=False;UserName=sa;">
+      <PassWord
+        Sensitive="1" xmlns="www.microsoft.com/SqlServer/Dts">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACv0+lcbR6ES8z03KUHfJswAAAAACAAAAAAAQZgAAAAEAACAAAACYMhvWjFN1b6CLUaIAgz/mUfx2MxmA8jXlmdxtCIdKDAAAAAAOgAAAAAIAACAAAACc3Jo8kOK5Ww6zlpDSjVLHG1LTt6wHYBxx6J69xhrBFmAAAADBLFMqOuMbVZLNBHE/A6dyt/kUOiZRjViZ2dGHnSfPMpS+aAfCe5GBTosfXp6ngLFqdHxeqSdnXGwUDFFUWBLdJOiksyPlWS9pJD7xv6c9ywqn0YOfCoo5HDtuUsyoABtAAAAAeefChi/mVVzCKuye/7RzMNSc+ee0nOrKFq/3sV7vwBAZw4aQAI4Y4PqXCHIBbZRMWa8O7HOHTsnWsPRnP4Ll6w==</PassWord>
+    </SMOServerConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
